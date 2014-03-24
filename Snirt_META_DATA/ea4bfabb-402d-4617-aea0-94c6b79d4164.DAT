@@ -7,7 +7,15 @@
   <EmailAddress />
   <IsDefault>false</IsDefault>
   <HeadShotBitmap>iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAIAAAD/gAIDAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOwgAADsIBFShKgAAAANVJREFUeF7t0DEBADAQA6H6N51a+NtBAm+cyQpkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbLOtg8tw8GdM4Or7wAAAABJRU5ErkJggg==</HeadShotBitmap>
-  <Comments />
+  <Comments>
+    <Comment>
+      <DocumentPath>miketest1.docx</DocumentPath>
+      <Text>Yadda</Text>
+      <CommentDateTime>2014-03-24T12:06:42.518347-07:00</CommentDateTime>
+      <Vote>0</Vote>
+      <CommitId>0b26ba023dfe1d3cd4c0d5ff88eb103f3751fd46</CommitId>
+    </Comment>
+  </Comments>
   <MergeConflicts />
   <Follows />
   <FileVersionCommitExtensions>
